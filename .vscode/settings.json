@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/3137c222-13fc-4b4e-ad41-17847e63738f/resourceGroups/nestjs-restaurant-api/providers/Microsoft.Web/sites/nestjs-restaurant-api",
+  "appService.deploySubpath": "dist"
+}
